@@ -31,7 +31,7 @@ This repository does not include an image-generation model or API credentials.
 Clone the repository:
 
 ```bash
-git clone https://github.com/1484509311/preserve-photo-window-old-paper.git
+git clone https://github.com/puer-ai/preserve-photo-window-old-paper.git
 cd preserve-photo-window-old-paper
 ```
 

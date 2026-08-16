@@ -31,7 +31,7 @@
 リポジトリをクローンします。
 
 ```bash
-git clone https://github.com/1484509311/preserve-photo-window-old-paper.git
+git clone https://github.com/puer-ai/preserve-photo-window-old-paper.git
 cd preserve-photo-window-old-paper
 ```
 
