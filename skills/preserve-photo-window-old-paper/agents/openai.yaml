@@ -1,0 +1,4 @@
+interface:
+  display_name: "视觉核心旧纸插画"
+  short_description: "自动识别画面核心并保留实拍，将外围转换为旧纸墨线淡彩插画风格"
+  default_prompt: "Use $preserve-photo-window-old-paper to identify and preserve the photograph's visual core, then turn its periphery into aged-paper illustration."
