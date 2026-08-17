@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security report
-    url: https://github.com/puer-ai/preserve-photo-window-old-paper/security
+    url: https://github.com/puer-ai/photo-window/security
     about: Review the security policy before reporting a vulnerability.

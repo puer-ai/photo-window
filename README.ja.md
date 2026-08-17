@@ -31,8 +31,8 @@
 リポジトリをクローンします。
 
 ```bash
-git clone https://github.com/puer-ai/preserve-photo-window-old-paper.git
-cd preserve-photo-window-old-paper
+git clone https://github.com/puer-ai/photo-window.git
+cd photo-window
 ```
 
 ### Windows PowerShell
